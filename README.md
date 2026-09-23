@@ -88,7 +88,7 @@ Hardware Acceleration: NVIDIA GeForce RTX 5070 Ti Laptop GPU (CUDA)
 
 Clone the repository and install the dependencies:
 
-git clone https://github.com/MoBa-create/cifar10-cnn-classifier.git
+git clone https://github.com/MoBa-create/cifar10-resnet18-pytorch
 cd cifar10-cnn-classifier
 pip install -r requirements.txt
 
