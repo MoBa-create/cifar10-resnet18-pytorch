@@ -1,0 +1,22 @@
+PyTorch Data Directory
+
+data/
+
+Model Weights / Checkpoints
+
+*.pth
+
+Python Cache & Compiled Files
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Environments & IDEs
+
+.vscode/
+.idea/
+venv/
+env/
+*.log
